@@ -1,8 +1,7 @@
 # Yogacast
 
-A demo project for showing how to build custom reusable widgets
+Demo project for using reusable widgets in the flutter framework. Displays a list of meditation and yoga articles.
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-10-18 at 13 26 28](https://github.com/JonnySueck/audio-book/assets/36180489/ae802cd0-0606-47f4-bd34-098be78ee02d)
 
-Here are a few points about how this demo is set up:
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-10-18 at 13 26 34](https://github.com/JonnySueck/audio-book/assets/36180489/00fe6673-37ee-41ab-88fb-c9cc063d8fc9)
 
-- An MVVM architecture is used to communicate with the AudioWidget. See [this article](https://medium.com/flutter-community/a-beginners-guide-to-architecting-a-flutter-app-1e9053211a74) for a more detailed description.
-- You can use any audio plugin you like, but this demo uses the [audioplayers](https://pub.dev/packages/audioplayers) plugin.
